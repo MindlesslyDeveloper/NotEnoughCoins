@@ -8,4 +8,7 @@ A skyblock Flipping Mod
 
 We are not liable for any coins you lost buying items 
 without checking, flips aren't always perfect
-![Screenshot 2022-04-16 215530](https://user-images.githubusercontent.com/103870093/163701030-bc63a148-a1bd-4218-9736-5b9c0dc0110a.png)
+![Screenshot 2022-04-16 215530]
+
+(https://user-images.githubusercontent.com/103870093/163701030-bc63a148-a1bd-4218-9736-5b9c0dc0110a.png)
+![Screenshot 2022-04-16 215637](https://user-images.githubusercontent.com/103870093/163701053-642c14dd-aaca-42c2-aebf-8127db294259.png)
